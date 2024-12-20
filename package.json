@@ -1,11 +1,8 @@
 {
   "name": "crwtbp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create React with TypeScript Blueprint",
   "main": "index.js",
-  "scripts" : {
-    "create": "node index.js"
-  },
   "author": "Rafael Rosenhof",
   "license": "ISC",
   "devDependencies": {
